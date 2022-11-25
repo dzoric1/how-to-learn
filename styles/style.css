@@ -317,9 +317,6 @@
   min-height: 250px;
 }
 
-.footer__column {
-}
-
 .footer__column_content_copyright {
   display: flex;
   flex-direction: column;
@@ -328,16 +325,13 @@
 }
 
 .logo_place_footer {
-  background: url("../images/logo_place_footer.svg");
+  background: url("../images/footer/logo_place_footer.svg");
 }
 
 .footer__author {
   line-height: 25px;
   font-size: 18px;
   font-weight: 400;
-}
-
-.footer__column_content_info {
 }
 
 .footer__column-heading {
@@ -371,7 +365,4 @@
 
 .footer__column-link:hover {
   opacity: 0.6;
-}
-
-.footer__column_content_social {
 }
