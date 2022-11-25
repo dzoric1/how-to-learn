@@ -14,7 +14,27 @@
   height: 32px;
 }
 
+.section-title {
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.section-subtitle {
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+}
+
 .content__description {
+  margin-bottom: 100px;
+}
+
+.content__digits {
   margin-bottom: 100px;
 }
 
@@ -139,4 +159,47 @@
 
 .two-columns__span-accent {
   font-weight: 600;
+}
+
+/* ==============================Digits================================== */
+.digits__title {
+  margin: 0 auto 20px auto;
+}
+.digits__subtitle {
+  margin: 0 auto;
+}
+.digits__table {
+  margin: 0 auto;
+}
+
+/* =============================Table======================================= */
+
+.table {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.table__cell {
+  width: 250px;
+  margin: 60px 0px 0px 0px;
+}
+
+.table__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0 0 20px 0;
+}
+
+.table__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.table__text_width-margin {
+  margin: 0px 0px 20px 0px;
 }
