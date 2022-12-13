@@ -1,4 +1,4 @@
-# how-to-learn
+# how-to-learn https://dzoric1.github.io/how-to-learn/
 ---
 ## Описание 
 
